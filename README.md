@@ -41,7 +41,7 @@ Or, in BibTex:
 
 ## Requirements
 
-- Python 2.6, 2.7
+- Python 3.7+
 - Mac OS X or Linux (Windows might work but hasn't been tested)
 
 ## Alignment Algorithm
